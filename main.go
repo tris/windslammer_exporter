@@ -17,7 +17,7 @@ import (
 const (
 	weatherStationURL = "http://windslammer.net/cgi-bin/ws.cgi"
 	metricsPath       = "/metrics"
-	defaultPort       = "2112"
+	defaultPort       = "9307"
 )
 
 var (
