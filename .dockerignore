@@ -1,0 +1,7 @@
+.crush
+.git
+.github
+.goreleaser.yaml
+CRUSH.md
+dist
+windslammer_exporter
